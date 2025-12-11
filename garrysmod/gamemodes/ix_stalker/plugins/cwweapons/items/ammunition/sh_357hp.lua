@@ -1,0 +1,12 @@
+ITEM.name = ".357 Magnum Hollow-Point"
+ITEM.model = "models/ethprops/ammo/357.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.ammo = ".357 -HP-" // type of the ammo
+ITEM.description = "A box that contains %s rounds of .357 Magnum ammo."
+ITEM.category = "Ammunition"
+ITEM.price = 1000
+ITEM.flag = "3"
+ITEM.ammoAmount = 15
+ITEM.weight = 0.35
+ITEM.isAmmo = true

@@ -1,0 +1,12 @@
+ITEM.name = "5.56x45mm Belt Hollow-Point"
+ITEM.model = "models/kek1ch/ammo_pkm.mdl"
+ITEM.width = 2
+ITEM.height = 1
+ITEM.ammo = "5.56x45MMB -HP-"
+ITEM.description = "A belt that contains %s rounds of 5.56x45mm."
+ITEM.category = "Ammunition"
+ITEM.price = 12000
+ITEM.flag = "4"
+ITEM.ammoAmount = 100
+ITEM.weight = 1.5
+ITEM.isAmmo = true
